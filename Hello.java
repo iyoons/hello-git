@@ -1,5 +1,6 @@
 public class Hello {
-        public static void main(String[] args) {
-                System.out.println("Hello, world from GiT!");
-        }
+    public static void main(String[] args) {
+        System.out.println("Hello, world from GiT!");
+        System.out.println("Changes after First commit!");
+	}
 }
